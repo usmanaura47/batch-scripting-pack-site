@@ -2,6 +2,6 @@ $(document).ready(function() {
 	$("html").niceScroll();
 });
 		
-$('#more-info').on('click', function () {
+$('#more-info').click(function() {
 	alert('Hello');
 });
