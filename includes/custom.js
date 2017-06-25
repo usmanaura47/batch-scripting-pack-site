@@ -1,4 +1,7 @@
 $(document).ready(function() {  
 	$("html").niceScroll();
-	$(".jquery-modal").niceScroll();
+});
+
+ $("#modal-info").modal({
+  fadeDuration: 100
 });
