@@ -42,7 +42,7 @@
 .modal a.close-modal {
   position: absolute;
   top: 1px;
-  right: -12px;
+  right: 8px;
   display: block;
   width: 30px;
   height: 30px;
