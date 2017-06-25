@@ -36,7 +36,8 @@
   -ms-box-shadow: 0 0 10px #000;
   box-shadow: 0 0 10px #000;
   text-align: left;
-} background: url("/includes/b50.png") 0 0;
+  background: url("/includes/b50.png") 0 0;
+}
 
 .modal a.close-modal {
   position: absolute;
