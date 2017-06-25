@@ -47,7 +47,7 @@
   width: 30px;
   height: 30px;
   text-indent: -9999px;
-  background: url("/includes/ic_cancel_black.png") no-repeat 0 0;
+  background: url("/includes/ic_cancel_white.png") no-repeat 0 0;
 }
 
 .modal-spinner {
