@@ -29,9 +29,11 @@
 	<link type="text/css" rel="stylesheet" href="/includes/milligram.min.css">
 	<link type="text/css" rel="stylesheet" href="/includes/font-awesome.min.css">
 	<link type="text/css" rel="stylesheet" href="/includes/custom.css">
+	<link type="text/css" rel="stylesheet" href="/includes/jquery.modal.min.css">
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 	<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jquery.nicescroll/3.7.3/jquery.nicescroll.min.js"></script>
 	<script type="text/javascript" src="/includes/custom.js"></script>
+	<script type="text/javascript" src="/includes/jquery.modal.min.js"></script>
 </head>
 <body>
 	<section id="main">
@@ -47,13 +49,16 @@
 					<p>
 						v1.0 | Open Source | All Windows Versions | 36 KB
 					</p>
-					<a class="button" href="/downloads/batchscriptingpack1.0.zip">Download Now!</a>
-					<button class="button" id="more-info">Get more details</button>
+					<a class="button" href="/downloads/batchscriptingpack1.0.zip"> Download Now! </a>
+					<a class="button" href="#modal-info" rel="modal:open"> Get more details </a>
 				</div>
 				<div class="column">
 					<img class="img-container" src="/includes/batch-scripting-pack.png" alt="Batch Scripting Pack">
 				</div>
 			</div>
+		</div>
+		<div id="modal-info" class="modal">
+			<p>Hello</p>
 		</div>
 	</section>
 	<footer class="footer">
