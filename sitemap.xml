@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"> 
+<url>
+  <loc>http://batchscriptingpack.tk/downloads/batchscriptingpack1.0.zip</loc>
+  <priority>1.0</priority>
+  <changefreq>always</changefreq>
+</url>
+<url>
+  <loc>http://batchscriptingpack.tk/cdn-cgi/l/email-protection#fd888e909c939c888f9cc9caa69c89a09a909c9491a6999289a09e9290</loc>
+  <priority>1.0</priority>
+  <changefreq>always</changefreq>
+</url>
+<url>
+  <loc>http://batchscriptingpack.tk/cdn-cgi/l/email-protection#b0c5c3ddd1ded1c5c2d18487ebd1c4edd7ddd1d9dcebd4dfc4edd3dfdd</loc>
+  <priority>1.0</priority>
+  <changefreq>always</changefreq>
+</url>
+<url>
+  <loc></loc>
+  <priority>1.0</priority>
+  <changefreq>always</changefreq>
+</url>
+</urlset>
