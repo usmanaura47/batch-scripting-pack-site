@@ -1,4 +1,4 @@
 $(document).ready(function() {  
 	$("html").niceScroll();
-	$("#modal-info").niceScroll();
+	$(".jquery-modal").niceScroll();
 });
