@@ -11,6 +11,14 @@ h2 {
 p {
 	color: white;
 }
+
+dl {
+	color: white;
+}
+
+dt {
+	font-weight: 500;
+}
 		
 body {
 	height: 100%;
