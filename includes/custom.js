@@ -12,6 +12,8 @@ $(document).ready(function () {
         infinite: true,
         speed: 300,
         slidesToShow: 1,
-        adaptiveHeight: true
+        slidesToScroll: 1,
+        accessibility: true,
+        variableWidth: true
     });
 });
