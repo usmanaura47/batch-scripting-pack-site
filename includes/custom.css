@@ -22,7 +22,7 @@ dt {
 		
 body {
 	height: 100%;
-	background: url('includes/b50.png') 0 0;
+	background: url('/includes/b50.png') 0 0;
 	}
 
 #main {
