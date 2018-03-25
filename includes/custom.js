@@ -1,6 +1,6 @@
 $(document).ready(function () {
     $("html").niceScroll();
-    $("#modal-info").modal({
-        fadeDuration: 100
-    });
+//    $("#modal-info").modal({
+//        fadeDuration: 100
+//    });
 });
