@@ -14,7 +14,7 @@ To view live website click [here](http://batchscriptingpack.tk)
 
 ```
 # clone the project
-git clone https://github.com/usmanaura47/batch-scripting-pack-web.git
+git clone https://github.com/usmanaura47/batch-scripting-pack-site.git
 ```
 
 ## Contributions
